@@ -1,11 +1,11 @@
-package uy.ucu.tp;
+package uy.ucu.tp2;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+
 public class Biblioteca {
-	
 	private List<Libro> librosDisponibles;
 	private List<Prestamo> prestamos;
 	

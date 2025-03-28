@@ -1,7 +1,7 @@
-package uy.ucu.ut1;
+package uy.ucu.tp1;
+
 
 public class Main {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Carrera carrera = new Carrera();
@@ -16,5 +16,4 @@ public class Main {
 		alumno.setCarrera(carrera);  
 
 	}
-
 }

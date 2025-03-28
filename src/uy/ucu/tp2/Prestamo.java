@@ -1,9 +1,8 @@
-package uy.ucu.tp;
+package uy.ucu.tp2;
 
 import java.util.Date;
 
 public class Prestamo {
-
 	private Libro libro;
 	private Usuario usuario;
 	private Date fechaPrestamo; 
@@ -61,5 +60,4 @@ public class Prestamo {
 		// TODO Auto-generated method stub
 
 	}
-
 }

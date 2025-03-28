@@ -1,8 +1,7 @@
-package uy.ucu.ut1;
+package uy.ucu.tp1;
+
 
 public class Carrera {
-
-	
 	private int alumnos;
 	private String nombre;
  
@@ -56,5 +55,4 @@ public class Carrera {
 		
 		
 	}
-
 }

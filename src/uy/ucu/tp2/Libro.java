@@ -1,7 +1,6 @@
-package uy.ucu.tp;
+package uy.ucu.tp2;
 
 public class Libro {
-
 	private String titulo;
 	private String autor;
 	private int añoPublicacion;

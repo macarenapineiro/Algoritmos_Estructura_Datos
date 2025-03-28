@@ -4,5 +4,5 @@
 /**
  * 
  */
-module UT1TA2Piñeiro {
+module Algoritmos_Estructura_Datos {
 }

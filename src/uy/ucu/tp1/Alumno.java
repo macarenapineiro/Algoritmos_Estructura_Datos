@@ -1,7 +1,6 @@
-package uy.ucu.ut1;
+package uy.ucu.tp1;
 
 public class Alumno {
-
 	private String nombre;
 	private String apellido;
 	private Integer cedula;
@@ -68,7 +67,4 @@ public class Alumno {
 	public void setCarrera(Carrera carrera) {
 		this.carrera = carrera;
 	}
-
-
-
 }
