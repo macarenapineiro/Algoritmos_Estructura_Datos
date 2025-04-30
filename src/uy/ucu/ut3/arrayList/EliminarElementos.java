@@ -6,9 +6,9 @@ public class EliminarElementos {
 
 	public static ArrayList<Integer> eliminarMayor50(ArrayList<Integer> numeros){
 		ArrayList<Integer> nueva = new ArrayList <> (numeros);
-		for (int i = nueva.size() -1; i >= 0; i--) {
-			if(nueva.get(i) > 50) {
-				nueva.remove(i);
+		for (int i = 0; i < numeros.size(); i++) {
+			if(numeros.get(i) > 50) {
+				nueva.remove(numeros.get(i));
 			}
 		}
 		return nueva;
